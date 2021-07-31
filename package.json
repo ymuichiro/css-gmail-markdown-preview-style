@@ -1,0 +1,19 @@
+{
+  "name": "css-gmail-markdown-preview-style",
+  "version": "1.0.0",
+  "description": "Gmail本文貼り付け用。VS Code Markdown Previewのスタイルを更新する",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymuichiro/css-gmail-markdown-preview-style.git"
+  },
+  "author": "Yuichiro Mukaiyama <ym.u.ichiro@gmail.com> (https://github.com/ymuichiro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymuichiro/css-gmail-markdown-preview-style/issues"
+  },
+  "homepage": "https://github.com/ymuichiro/css-gmail-markdown-preview-style#readme"
+}
